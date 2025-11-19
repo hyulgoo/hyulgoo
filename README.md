@@ -1,6 +1,6 @@
 <!-- 헤더 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&text=GeonHee's%20Github&animation=&fontColor=ffffff&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&text=Hyulgoo's%20Github&animation=&fontColor=ffffff&fontSize=50" />
 </div>
 
 <br/>
