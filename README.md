@@ -45,7 +45,7 @@
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Portfolio Link </h2>
   <br>
-  <a href="https://elemental-chance-5a8.notion.site/2ae135971f3c8071a65ec8aa8bda7821?source=copy_link">
+  <a href="https://leaf-bergamot-6e5.notion.site/27b875952d2580f08f0dd53d1cd28898?source=copy_link">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
   </a>
   <br/><br/>
